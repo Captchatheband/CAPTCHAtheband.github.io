@@ -5,10 +5,10 @@ background: #FFFFFF url(http://i67.tinypic.com/35i2k4m.jpg);
     background-repeat: no-repeat;
 }
 
-@media screen and (min-width: 420px) and (max-width: 1024px) {
-.body {
-    background: #FFFFFF url(http://i63.tinypic.com/108bqcn.png);
-}
+@media screen and (min-width: 420px) and (max-width: 1024px)
+
+{.body {
+    background: #FFFFFF url(http://i63.tinypic.com/108bqcn.png);}
 }
 
 
