@@ -23,9 +23,9 @@ ul{
 header{
     background: #353637;
   color: #ffffff;
-   -webkit-text-fill-color: white;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  webkit-text-fill-color: white;
+  webkit-text-stroke-width: 1px;
+  webkit-text-stroke-color: black;
   padding-top: 30px;
   min-height: 70px;
   border-bottom: #80e4df 3px solid;
