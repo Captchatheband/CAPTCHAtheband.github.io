@@ -202,5 +202,6 @@ th, td {
 
 tr:hover{
   background-color: #77da6d;
-  font-weight: bold;
+  font-weight: ;
+  cursor: pointer; 
 }
