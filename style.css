@@ -205,3 +205,11 @@ tr:hover{
   font-weight: ;
   cursor: pointer; 
 }
+
+#main {
+  min-height: 960px;
+  background:url('http://i68.tinypic.com/23izbxd.jpg'), no-repeat, center;
+  background-size: cover;
+  text-align: center;
+  color: #353637;
+}
