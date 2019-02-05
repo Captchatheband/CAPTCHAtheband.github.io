@@ -61,7 +61,7 @@ header a:hover{
   background-size: cover;
   text-align: center;
   color: #ffffff;
-  webkit-text-stroke-width: 4px;
+  webkit-text-stroke-width: 8px;
   webkit-text-stroke-color: ;
   text-shadow:
    -1px -1px 0 #000,  
@@ -74,7 +74,7 @@ header a:hover{
   font-size: 55px;
   margin-bottom: 50px;
   color: #ffffff;
-  webkit-text-stroke-width: 4px;
+  webkit-text-stroke-width: 8px;
   webkit-text-stroke-color: black;
   text-shadow:
    -1px -1px 0 #000,  
