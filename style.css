@@ -230,3 +230,7 @@ tr:hover{
   background-size: cover;
   color: #353637;
 }
+
+.box:visited { 
+  color: #32a0c2;
+}
