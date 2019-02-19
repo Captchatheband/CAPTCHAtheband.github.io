@@ -226,6 +226,10 @@ tr:hover{
   cursor: pointer; 
 }
 
+tr:visited{
+  color: #32a0c2;
+}
+
 #main {
   min-height: 960px;
   background:url('http://i67.tinypic.com/35i2k4m.jpg'), no-repeat, center;
