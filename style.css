@@ -224,7 +224,7 @@ tr:visited{
 
 #main {
   min-height: 960px;
-  background:url('http://i67.tinypic.com/35i2k4m.jpg'), no-repeat, center;
+  background:url('http://i67.tinypic.com/35i2k4m.jpg'), no-repeat, center, fixed;
   background-size: 100%;
   color: #353637;
 }
