@@ -218,7 +218,7 @@ th, td {
     padding: 8px;
     color:#32a0c2;
     text-decoration: underlined; 
-    text-color: ffffff;
+    text-color: #ffffff;
   
 }
 
@@ -241,4 +241,8 @@ tr:visited{
 
 .box:visited { 
   color: #32a0c2;
+}
+
+.a { 
+  color: #ffffff;
 }
