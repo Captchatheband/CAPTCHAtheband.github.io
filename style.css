@@ -155,16 +155,6 @@ footer{
 
 @media(max-width: 768px){ /* insert CSS code for small screen sizes here */ }
 
-/* Sidebar */
-aside#sidebar{
-  float: right;
-  width: 30%;
-  padding: 5px;
-}
-aside#sidebar .contact input, aside#sidebar .contact textarea{
-  width: 90%;
-  padding: 5px;
-}
 article#main-col{
   float: left;
   width: 65%;
@@ -235,7 +225,7 @@ tr:visited{
 #main {
   min-height: 960px;
   background:url('http://i67.tinypic.com/35i2k4m.jpg'), no-repeat, center;
-  background-size: cover;
+  background-size: 100%;
   color: #353637;
 }
 
